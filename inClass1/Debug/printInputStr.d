@@ -1,0 +1,1 @@
+printInputStr.o: ../printInputStr.c

@@ -1,0 +1,1 @@
+varInUnion.o: ../varInUnion.c

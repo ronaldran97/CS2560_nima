@@ -1,0 +1,1 @@
+ternaryOp.o: ../ternaryOp.c
