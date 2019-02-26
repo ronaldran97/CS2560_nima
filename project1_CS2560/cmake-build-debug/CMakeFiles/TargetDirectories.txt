@@ -1,0 +1,3 @@
+/Users/ronaldtran/CLionProjects/project1_CS2560/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ronaldtran/CLionProjects/project1_CS2560/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ronaldtran/CLionProjects/project1_CS2560/cmake-build-debug/CMakeFiles/untitled.dir
