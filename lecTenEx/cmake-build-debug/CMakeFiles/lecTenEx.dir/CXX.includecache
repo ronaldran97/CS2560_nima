@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ronaldtran/CLionProjects/lecTenEx/Employee.cpp
+iostream
+-
+string
+-
+
+/Users/ronaldtran/CLionProjects/lecTenEx/EmployeeObjects.cpp
+iostream
+-
+string
+-
+iomanip
+-
+EmployeeObjects.h
+/Users/ronaldtran/CLionProjects/lecTenEx/EmployeeObjects.h
+Employee.cpp
+/Users/ronaldtran/CLionProjects/lecTenEx/Employee.cpp
+
+/Users/ronaldtran/CLionProjects/lecTenEx/EmployeeObjects.h
+
