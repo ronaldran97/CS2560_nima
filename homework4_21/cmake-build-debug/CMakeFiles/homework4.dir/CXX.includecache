@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ronaldtran/CLionProjects/homework4_21/Die.cpp
+Die.h
+/Users/ronaldtran/CLionProjects/homework4_21/Die.h
+cstdlib
+-
+ctime
+-
+
+/Users/ronaldtran/CLionProjects/homework4_21/Die.h
+
+/Users/ronaldtran/CLionProjects/homework4_21/GameTwentyOne.cpp
+GameTwentyOne.h
+/Users/ronaldtran/CLionProjects/homework4_21/GameTwentyOne.h
+iostream
+-
+
+/Users/ronaldtran/CLionProjects/homework4_21/GameTwentyOne.h
+Die.h
+/Users/ronaldtran/CLionProjects/homework4_21/Die.h
+
+/Users/ronaldtran/CLionProjects/homework4_21/main.cpp
+GameTwentyOne.h
+/Users/ronaldtran/CLionProjects/homework4_21/GameTwentyOne.h
+
