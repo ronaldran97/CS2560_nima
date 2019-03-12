@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkedCar.h
+string
+-
+
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkingMeter.h
+
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkingTicket.h
+ParkedCar.h
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkedCar.h
+ParkingMeter.h
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkingMeter.h
+PoliceOfficer.h
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/PoliceOfficer.h
+
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/PoliceOfficer.h
+string
+-
+ParkingMeter.h
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkingMeter.h
+ParkedCar.h
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkedCar.h
+ParkingTicket.h
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkingTicket.h
+
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/main.cpp
+iostream
+-
+ParkedCar.h
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkedCar.h
+ParkingTicket.h
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkingTicket.h
+ParkingMeter.h
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/ParkingMeter.h
+PoliceOfficer.h
+/Users/ronaldtran/CLionProjects/homework4_Parking_Ticket/PoliceOfficer.h
+
