@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ronaldtran/CLionProjects/midterm/ArrayClass.h
+
+/Users/ronaldtran/CLionProjects/midterm/main.cpp
+iostream
+-
+ArrayClass.h
+/Users/ronaldtran/CLionProjects/midterm/ArrayClass.h
+
