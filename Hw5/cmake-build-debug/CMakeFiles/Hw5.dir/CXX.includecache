@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ronaldtran/CLionProjects/Hw5/CustomerData.h
+PersonData.h
+/Users/ronaldtran/CLionProjects/Hw5/PersonData.h
+
+/Users/ronaldtran/CLionProjects/Hw5/PersonData.h
+iostream
+-
+
+/Users/ronaldtran/CLionProjects/Hw5/PreferredCustomer.cpp
+PreferredCustomer.h
+/Users/ronaldtran/CLionProjects/Hw5/PreferredCustomer.h
+iostream
+-
+
+/Users/ronaldtran/CLionProjects/Hw5/PreferredCustomer.h
+CustomerData.h
+/Users/ronaldtran/CLionProjects/Hw5/CustomerData.h
+

@@ -1,0 +1,3 @@
+/Users/ronaldtran/CLionProjects/hw5LectureEx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ronaldtran/CLionProjects/hw5LectureEx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ronaldtran/CLionProjects/hw5LectureEx/cmake-build-debug/CMakeFiles/hw5LectureEx.dir

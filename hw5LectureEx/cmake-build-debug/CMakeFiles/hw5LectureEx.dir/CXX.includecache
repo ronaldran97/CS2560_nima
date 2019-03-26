@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ronaldtran/CLionProjects/hw5LectureEx/main.cpp
+iostream
+-
+cstdio
+-
+
+/Users/ronaldtran/CLionProjects/hw5LectureEx/virtualEx.cpp
+iostream
+-
+
