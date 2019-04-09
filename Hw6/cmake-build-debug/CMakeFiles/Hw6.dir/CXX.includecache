@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ronaldtran/CLionProjects/Hw6/Employee.h
+iostream
+-
+
+/Users/ronaldtran/CLionProjects/Hw6/MinMaxTemplates.cpp
+iostream
+-
+
+/Users/ronaldtran/CLionProjects/Hw6/ProductionWorker.cpp
+iostream
+-
+ProductionWorker.h
+/Users/ronaldtran/CLionProjects/Hw6/ProductionWorker.h
+Employee.h
+/Users/ronaldtran/CLionProjects/Hw6/Employee.h
+
+/Users/ronaldtran/CLionProjects/Hw6/ProductionWorker.h
+iostream
+-
+Employee.h
+/Users/ronaldtran/CLionProjects/Hw6/Employee.h
+
