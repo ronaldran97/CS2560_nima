@@ -1,0 +1,3 @@
+/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/CMakeFiles/midtermTwo.dir

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="midtermTwo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="midtermTwo">
+				<Option output="/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/midtermTwo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 midtermTwo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="midtermTwo/fast">
+				<Option output="/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/midtermTwo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 midtermTwo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ronaldtran/CLionProjects/midtermTwo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ronaldtran/CLionProjects/midtermTwo/Child.cpp">
+			<Option target="midtermTwo"/>
+		</Unit>
+		<Unit filename="/Users/ronaldtran/CLionProjects/midtermTwo/Child.h">
+			<Option target="midtermTwo"/>
+		</Unit>
+		<Unit filename="/Users/ronaldtran/CLionProjects/midtermTwo/Human.cpp">
+			<Option target="midtermTwo"/>
+		</Unit>
+		<Unit filename="/Users/ronaldtran/CLionProjects/midtermTwo/Human.h">
+			<Option target="midtermTwo"/>
+		</Unit>
+		<Unit filename="/Users/ronaldtran/CLionProjects/midtermTwo/Parent.cpp">
+			<Option target="midtermTwo"/>
+		</Unit>
+		<Unit filename="/Users/ronaldtran/CLionProjects/midtermTwo/Parent.h">
+			<Option target="midtermTwo"/>
+		</Unit>
+		<Unit filename="/Users/ronaldtran/CLionProjects/midtermTwo/main.cpp">
+			<Option target="midtermTwo"/>
+		</Unit>
+		<Unit filename="/Users/ronaldtran/CLionProjects/midtermTwo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

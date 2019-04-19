@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ronaldtran/CLionProjects/midtermTwo/Child.h
+
+/Users/ronaldtran/CLionProjects/midtermTwo/Human.h
+iostream
+-
+vector
+-
+
+/Users/ronaldtran/CLionProjects/midtermTwo/Parent.h
+
+/Users/ronaldtran/CLionProjects/midtermTwo/main.cpp
+iostream
+-
+Parent.h
+/Users/ronaldtran/CLionProjects/midtermTwo/Parent.h
+Child.h
+/Users/ronaldtran/CLionProjects/midtermTwo/Child.h
+Human.h
+/Users/ronaldtran/CLionProjects/midtermTwo/Human.h
+vector
+-
+altivec.h
+-
+
