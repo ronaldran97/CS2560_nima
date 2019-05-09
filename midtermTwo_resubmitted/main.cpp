@@ -32,7 +32,7 @@ int main()
     Bart.getAllowance(); //should be 5 now
     Bart.printParents(); // child prints out all parents
 
-    printInfo(Maggie);
+    printInfo(March);
     printInfo(Lisa);
 
     //std::cout << Bart.getAllowance();
