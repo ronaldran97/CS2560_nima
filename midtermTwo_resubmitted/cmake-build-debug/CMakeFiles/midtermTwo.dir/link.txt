@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/midtermTwo.dir/main.cpp.o CMakeFiles/midtermTwo.dir/Human.cpp.o CMakeFiles/midtermTwo.dir/Parent.cpp.o CMakeFiles/midtermTwo.dir/Child.cpp.o  -o midtermTwo 
